@@ -148,6 +148,7 @@ void APVZ_USFX_LAB02GameMode::BeginPlay()
 		}
 	} 
 
+	// Spawn plantas
 	ALanzaguisantes* LanzaguisantesDoble = SpawnPlantLanzaguisantes(FVector(-660.0f, 270.0f, 260.0f));
 	ADecoratorDisparoDoble* DecoratorDisparoDoble = GetWorld()-> SpawnActor<ADecoratorDisparoDoble>(ADecoratorDisparoDoble::StaticClass());
 	DecoratorDisparoDoble->SetPlant(LanzaguisantesDoble);
