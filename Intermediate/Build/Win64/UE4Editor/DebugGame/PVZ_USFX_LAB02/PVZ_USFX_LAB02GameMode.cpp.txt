@@ -1101,3 +1101,5 @@ E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-m
 E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\DecoratorDisparoAleatorio.generated.h
 E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\DecoratorSuperPower.h
 E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\DecoratorSuperPower.generated.h
+E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\DecoratorDisparoRapido.h
+E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\DecoratorDisparoRapido.generated.h

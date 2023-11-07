@@ -18,7 +18,7 @@ void ADecoratorDisparoDoble::Tick(float DeltaTime)
 
 void ADecoratorDisparoDoble::DisparoDoble()
 {
-	int32 Random = FMath::RandRange(0, 3);
+	int32 Random = FMath::RandRange(0, 1);
 	switch (Random)
 	{
 	case 0:

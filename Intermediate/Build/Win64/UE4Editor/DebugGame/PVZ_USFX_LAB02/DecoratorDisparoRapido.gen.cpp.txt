@@ -1,0 +1,9 @@
+E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\DebugGame\PVZ_USFX_LAB02\Definitions.PVZ_USFX_LAB02.h
+D:\Juegos y aplicaciones\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Juegos y aplicaciones\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02/DecoratorDisparoRapido.h
+E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\PlantDecorator.h
+E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\Plant.h
+E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Plant.generated.h
+E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\PlantDecorator.generated.h
+E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\DecoratorDisparoRapido.generated.h

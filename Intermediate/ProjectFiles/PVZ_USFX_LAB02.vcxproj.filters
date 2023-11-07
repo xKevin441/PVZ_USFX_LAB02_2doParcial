@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\PVZ_USFX_LAB02.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7A7E043B-9E68-4D98-BDC2-8F66A96D5464}</UniqueIdentifier>
+      <UniqueIdentifier>{9CF770D0-FB43-4FC1-B45C-01E76B290D51}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\PVZ_USFX_LAB02.Target.cs">
       <Filter>Source</Filter>
@@ -16,7 +16,7 @@
     <None Include="..\..\.ignore" />
     <None Include="..\..\PVZ_USFX_LAB02.code-workspace" />
     <Filter Include="Config">
-      <UniqueIdentifier>{D84AF031-1E53-4886-8793-10F27EDE63F3}</UniqueIdentifier>
+      <UniqueIdentifier>{19391AB4-D240-4531-81E1-231D018D8194}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -34,7 +34,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\PVZ_USFX_LAB02">
-      <UniqueIdentifier>{826407F1-27A9-4C81-A167-334F72EB4835}</UniqueIdentifier>
+      <UniqueIdentifier>{FB71F123-CAF0-4BC0-A76F-D3ACFCD2F69A}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\AbonoMagico.cpp">
       <Filter>Source\PVZ_USFX_LAB02</Filter>
@@ -64,6 +64,12 @@
       <Filter>Source\PVZ_USFX_LAB02</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\DecoratorDisparoDoble.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\DecoratorDisparoRapido.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\DecoratorDisparoRapido.h">
       <Filter>Source\PVZ_USFX_LAB02</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\DecoratorSuperPower.cpp">

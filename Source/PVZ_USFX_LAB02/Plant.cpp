@@ -28,7 +28,7 @@ APlant::APlant()
 	GunOffset = FVector(90.f, 0.f, 0.f);
 	FireRate = 0.2f;
 	TiempoTranscurrido = 0.0f;
-	TiempoEntreDisparos = 1.0f;
+	TiempoEntreDisparos = 2.0f;
 	Tags.Add(TEXT("Plant"));
 }
 

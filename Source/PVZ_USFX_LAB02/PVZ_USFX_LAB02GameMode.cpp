@@ -20,6 +20,7 @@
 #include "DecoratorDisparoDoble.h"
 #include "DecoratorDisparoAleatorio.h"
 #include "DecoratorSuperPower.h"
+#include "DecoratorDisparoRapido.h"
 
 APVZ_USFX_LAB02GameMode::APVZ_USFX_LAB02GameMode()
 {
@@ -149,17 +150,21 @@ void APVZ_USFX_LAB02GameMode::BeginPlay()
 	} 
 
 	// Spawn plantas
-	ALanzaguisantes* LanzaguisantesDoble = SpawnPlantLanzaguisantes(FVector(-660.0f, 270.0f, 260.0f));
+	ALanzaguisantes* LanzaguisantesDoble = SpawnPlantLanzaguisantes(FVector(-620.0f, 270.0f, 200.0f));
 	ADecoratorDisparoDoble* DecoratorDisparoDoble = GetWorld()-> SpawnActor<ADecoratorDisparoDoble>(ADecoratorDisparoDoble::StaticClass());
 	DecoratorDisparoDoble->SetPlant(LanzaguisantesDoble);
 
-	ALanzaguisantes* LanzaguisantesAleatorio = SpawnPlantLanzaguisantes(FVector(-460.0f, 720.0f, 260.0f));
+	ALanzaguisantes* LanzaguisantesAleatorio = SpawnPlantLanzaguisantes(FVector(-460.0f, 270.0f, 200.0f));
 	ADecoratorDisparoAleatorio* DecoratorDisparoAleatorio = GetWorld()->SpawnActor<ADecoratorDisparoAleatorio>(ADecoratorDisparoAleatorio::StaticClass());
 	DecoratorDisparoAleatorio->SetPlant(LanzaguisantesAleatorio);
 
-	ALanzaguisantes* LanzaguisantesSuper = SpawnPlantLanzaguisantes(FVector(-260.0f, 720.0f, 260.0f));
+	ALanzaguisantes* LanzaguisantesSuper = SpawnPlantLanzaguisantes(FVector(-260.0f, 270.0f, 200.0f));
 	ADecoratorSuperPower* DecoratorSuperPower = GetWorld()->SpawnActor<ADecoratorSuperPower>(ADecoratorSuperPower::StaticClass());
 	DecoratorSuperPower->SetPlant(LanzaguisantesSuper);
+
+	ALanzaguisantes* LanzaguisantesRapido = SpawnPlantLanzaguisantes(FVector(-160.0f, 270.0f, 200.0f));
+	ADecoratorDisparoRapido* DecoratorDisparoRapido = GetWorld()->SpawnActor<ADecoratorDisparoRapido>(ADecoratorDisparoRapido::StaticClass());
+	DecoratorDisparoRapido->SetPlant(LanzaguisantesRapido);
 
 	//initialPositionX = -1500.0f;
 	//initialPositionY = 1000.0f;
