@@ -1,9 +1,7 @@
 E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\DebugGame\PVZ_USFX_LAB02\Definitions.PVZ_USFX_LAB02.h
-E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\DecoratorSuperPower.h
-E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\PlantDecorator.h
 E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\Plant.h
 E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Plant.generated.h
-E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\PlantDecorator.generated.h
-E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\DecoratorSuperPower.generated.h
 E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02Projectile.h
 E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\PVZ_USFX_LAB02Projectile.generated.h
+E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\Zombie.h
+E:\Estudio\Programacion Avanzada II\Repo\Pvz Before 2do parcial\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Zombie.generated.h

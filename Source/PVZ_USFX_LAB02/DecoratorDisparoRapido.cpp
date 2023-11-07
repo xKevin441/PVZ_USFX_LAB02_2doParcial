@@ -7,11 +7,11 @@ void ADecoratorDisparoRapido::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	ControlTiempo2 += DeltaTime;
-	if (ControlTiempo2 >= tiempoEntreDispar)
+	ControlTiempo += DeltaTime;
+	if (ControlTiempo >= TiempoDisparo)
 	{
 		DisparoRapido();
-		ControlTiempo2 = 0.0f;
+		ControlTiempo = 0.0f;
 	}
 }
 
@@ -20,3 +20,4 @@ void ADecoratorDisparoRapido::DisparoRapido()
 	FVector Direccion = FVector(0.0f, 1.0f, 0.0f);
 	DecoratedPlant->FireShot(Direccion);
 }
+

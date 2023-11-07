@@ -7,11 +7,11 @@ void ADecoratorDisparoAleatorio::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	ControlTiempo1 += DeltaTime;
-	if (ControlTiempo1 >= tiempoEntreDisparo)
+	ControlTiempo += DeltaTime;
+	if (ControlTiempo >= tiempoEntreDisparo)
 	{
 		DisparoAleatorio();
-		ControlTiempo1 = 0.0f;
+		ControlTiempo = 0.0f;
 	}
 }
 

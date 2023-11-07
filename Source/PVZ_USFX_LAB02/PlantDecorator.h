@@ -17,11 +17,12 @@ protected:
 	// Referencia a la planta base que estamos decorando
 	APlant* DecoratedPlant = nullptr;
 
+    // Tiempo entre disparos
+    float tiempoEntreDisparo = 1.3f;
+    float ControlTiempo = 0.0f;
 
 
 public:
-    void SetPlant(APlant* InDecoratedPlant)
-    {
-        DecoratedPlant = InDecoratedPlant;
-    }
+    virtual void SetPlant(APlant* InDecoratedPlant) {};
+
 };

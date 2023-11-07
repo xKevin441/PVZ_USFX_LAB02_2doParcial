@@ -149,6 +149,8 @@ void APVZ_USFX_LAB02GameMode::BeginPlay()
 		}
 	} 
 
+
+
 	// Spawn plantas
 	ALanzaguisantes* LanzaguisantesDoble = SpawnPlantLanzaguisantes(FVector(-620.0f, 270.0f, 200.0f));
 	ADecoratorDisparoDoble* DecoratorDisparoDoble = GetWorld()-> SpawnActor<ADecoratorDisparoDoble>(ADecoratorDisparoDoble::StaticClass());
@@ -165,6 +167,8 @@ void APVZ_USFX_LAB02GameMode::BeginPlay()
 	ALanzaguisantes* LanzaguisantesRapido = SpawnPlantLanzaguisantes(FVector(-160.0f, 270.0f, 200.0f));
 	ADecoratorDisparoRapido* DecoratorDisparoRapido = GetWorld()->SpawnActor<ADecoratorDisparoRapido>(ADecoratorDisparoRapido::StaticClass());
 	DecoratorDisparoRapido->SetPlant(LanzaguisantesRapido);
+
+
 
 	//initialPositionX = -1500.0f;
 	//initialPositionY = 1000.0f;

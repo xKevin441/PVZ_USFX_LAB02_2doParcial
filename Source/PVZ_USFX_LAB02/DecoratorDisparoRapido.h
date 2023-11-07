@@ -14,10 +14,8 @@ class PVZ_USFX_LAB02_API ADecoratorDisparoRapido : public APlantDecorator
 {
 	GENERATED_BODY()
 public:
-	float tiempoEntreDispar = 0.9f;
-	float ControlTiempo2 = 0.0f;
-
 	void Tick(float DeltaTime) override;
+	float TiempoDisparo = 0.3;
 	void DisparoRapido();
 
 
